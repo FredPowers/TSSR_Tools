@@ -38,6 +38,7 @@ source : https://www.it-connect.fr/gerer-les-autorisations-ntfs-en-powershell-av
 - 07_Creation_ADUser_via_CSV.ps1
 - 08_Config_ServeurDNS.ps1
 - 09_Install_&_Configure_ServeurDHCP.ps1
+- Debogage.ps1
 
 
 02_Config_IP  
@@ -64,5 +65,7 @@ source : https://www.it-connect.fr/gerer-les-autorisations-ntfs-en-powershell-av
 09_Install_&_Configure_ServeurDHCP  
 ![09](https://user-images.githubusercontent.com/105367565/227781842-483eee6f-5ccc-4628-9d90-744fc9275521.png)
 
+Debogage  
+![2023-03-26 16_48_38-Window](https://user-images.githubusercontent.com/105367565/227783805-dfd4de53-9a82-49ab-ab14-c2673813ef52.png)
 
 
