@@ -17,12 +17,15 @@ Accès à internet necessaire afin de télécharger des modules ou logiciels sup
 - Script 03_Install_AD-DS.ps1 :
 Téléchargement du logiciel PingCastle via "https://github.com/vletoux/pingcastle/releases/download/3.0.0.0/PingCastle_3.0.0.0.zip"
 
-installation du module ModernActiveDirectory
+installation du module ModernActiveDirectory (Vue sur l'AD via une page html) disponible dans la gallerie powershell
+
+Source : https://github.com/dakhama-mehdi/Modern_ActiveDirectory
 
 
 - Script 05_Creation_dossiers_Partagés_DL_NTFS.ps1 :
 Téléchargement du dépot NuGet qui contient plus de 100000 packages dont le module NTFSSecurity
 Le module NTFSSecurity sert à gérer facilement les autorisations NTFS
+
 source : https://www.it-connect.fr/gerer-les-autorisations-ntfs-en-powershell-avec-ntfssecurity/
 
 Liste des scrpts :
