@@ -16,7 +16,7 @@ Accès à internet necessaire afin de télécharger des modules ou logiciels sup
 - Script 03_Install_AD-DS.ps1 :
 Téléchargement du logiciel PingCastle (Audit de l'AD, rapport html) via "https://github.com/vletoux/pingcastle/releases/download/3.0.0.0/PingCastle_3.0.0.0.zip"
 
-installation du module ModernActiveDirectory (Vue sur l'AD via une page html) disponible dans la gallerie powershell
+installation du module ModernActiveDirectory (Vue sur l'AD via une page html, en lecture seulement) disponible dans la gallerie powershell
 
 Source : https://github.com/dakhama-mehdi/Modern_ActiveDirectory
 
